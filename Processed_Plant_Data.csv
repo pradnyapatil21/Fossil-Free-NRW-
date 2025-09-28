@@ -1,0 +1,189 @@
+Plant_ID,phase,Coal Plant/Lignite power plants,Generation_Capacity,  MW (demand),Cost
+Heyeden 4_Solar,1,Heyeden 4,1670,875,95.5
+Heyeden 4_Solar,2,Heyeden 4,3340,875,95.5
+Heyeden 4_Solar,3,Heyeden 4,1670,875,95.5
+Lage Generator 2_Solar,1,Lage Generator 2,15.7,4.08,95.5
+Lage Generator 2_Solar,2,Lage Generator 2,15.7,4.08,95.5
+Bergkamen A_Solar,1,Bergkamen A,1380,720,95.5
+Bergkamen A_Solar,2,Bergkamen A,2760,720,95.5
+Bergkamen A_Solar,3,Bergkamen A,1380,720,95.5
+SSW-VT_Solar,1,SSW-VT,23.6,6.14,95.5
+SSW-VT_Solar,2,SSW-VT,23.6,6.14,95.5
+BVI-NT_Solar,1,BVI-NT,22.3,5.79,95.5
+BVI-NT_Solar,2,BVI-NT,22.2,5.79,95.5
+SSW-NT_Solar,1,SSW-NT,23.6,6.14,95.5
+SSW-NT_Solar,2,SSW-NT,23.6,6.14,95.5
+ Trianel Kohlekraftwerk Lünen_Solar,1, Trianel Kohlekraftwerk Lünen,"1,425",746,95.5
+ Trianel Kohlekraftwerk Lünen_Solar,2, Trianel Kohlekraftwerk Lünen,"2,850",746,95.5
+ Trianel Kohlekraftwerk Lünen_Solar,3, Trianel Kohlekraftwerk Lünen,"1,425",746,95.5
+Datteln 4_Solar,1,Datteln 4,"2,010",1052,95.5
+Datteln 4_Solar,2,Datteln 4,"4,020",1052,95.5
+Datteln 4_Solar,3,Datteln 4,"2,010",1052,95.5
+Herne 4_Solar,1,Herne 4,885,460,95.5
+Herne 4_Solar,2,Herne 4,"1,770",460,95.5
+Herne 4_Solar,3,Herne 4,885,460,95.5
+Scholven B_Solar,1,Scholven B,885,460,95.5
+Scholven B_Solar,2,Scholven B,"1,770",460,95.5
+Scholven B_Solar,3,Scholven B,885,460,95.5
+Scholven C_Solar,1,Scholven C,660,345,95.5
+Scholven C_Solar,2,Scholven C,"1,320",345,95.5
+Scholven C_Solar,3,Scholven C,660,345,95.5
+Walsum 10_Solar,1,Walsum 10,"1,395",725,95.5
+Walsum 10_Solar,2,Walsum 10,"2,790",725,95.5
+Walsum 10_Solar,3,Walsum 10,"1,395",725,95.5
+Solvay Rb TA7_Solar,1,Solvay Rb TA7,49,12.8,95.5
+Solvay Rb TA7_Solar,2,Solvay Rb TA7,49,12.8,95.5
+Solvay Rb TA8_Solar,1,Solvay Rb TA8,61,15.94,95.5
+Solvay Rb TA8_Solar,2,Solvay Rb TA8,61,15.94,95.5
+Solvay Rb TA 9_Solar,1,Solvay Rb TA 9,104,27.2,95.5
+Solvay Rb TA 9_Solar,2,Solvay Rb TA 9,104,27.2,95.5
+Solvay Rb TA 10 _Solar,1,Solvay Rb TA 10 ,104,27.2,95.5
+Solvay Rb TA 10 _Solar,2,Solvay Rb TA 10 ,104,27.2,95.5
+UER N230 VST2_Solar,1,UER N230 VST2,31.5,8.2,95.5
+UER N230 VST2_Solar,2,UER N230 VST2,31.5,8.2,95.5
+UER L57 M1_Solar,1,UER L57 M1,65.7,17.1,95.5
+UER L57 M1_Solar,2,UER L57 M1,65.7,17.1,95.5
+UER L57 M3_Solar,1,UER L57 M3,27.8,7.23,95.5
+UER L57 M3_Solar,2,UER L57 M3,27.8,7.23,95.5
+UER N230 NST2_Solar,1,UER N230 NST2,58.5,15.2,95.5
+UER N230 NST2_Solar,2,UER N230 NST2,58.5,15.2,95.5
+UER N230 VST1_Solar,1,UER N230 VST1,25,6.5,95.5
+UER N230 VST1_Solar,2,UER N230 VST1,25,6.5,95.5
+LEV KWG G23_Solar,1,LEV KWG G23,21,5.48,95.5
+LEV KWG G23_Solar,2,LEV KWG G23,21,5.48,95.5
+LEV KWG G02_Solar,1,LEV KWG G02,31.7,8.23,95.5
+LEV KWG G02_Solar,2,LEV KWG G02,31.7,8.23,95.5
+LEV KWG G11_Solar,1,LEV KWG G11,73.9,19.24,95.5
+LEV KWG G11_Solar,2,LEV KWG G11,73.9,19.24,95.5
+LEV KWG G12_Solar,1,LEV KWG G12,66.3,17.24,95.5
+LEV KWG G12_Solar,2,LEV KWG G12,66.3,17.24,95.5
+LEV KWG G21_Solar,1,LEV KWG G21,48.8,12.67,95.5
+LEV KWG G21_Solar,2,LEV KWG G21,48.8,12.67,95.5
+LEV KWG G22_Solar,1,LEV KWG G22,48.8,12.67,95.5
+LEV KWG G22_Solar,2,LEV KWG G22,48.8,12.67,95.5
+Block 6 Merkenich RheinEnergie_Solar,1,Block 6 Merkenich RheinEnergie,287.6,75.3,95.5
+Block 6 Merkenich RheinEnergie_Solar,2,Block 6 Merkenich RheinEnergie,287.6,75.3,95.5
+Neurath F_Solar,1,Neurath F,"2,696",1060,95.5
+Neurath F_Solar,2,Neurath F,"2,696",1060,95.5
+Neurath F_Solar,3,Neurath F,2696,1060,95.5
+Neurath G_Solar,1,Neurath G,"2,696",1060,95.5
+Neurath G_Solar,2,Neurath G,"2,696",1060,95.5
+Neurath G_Solar,3,Neurath G,2696,1060,95.5
+Fab Fortuna_Solar,1,Fab Fortuna,57.3,15,95.5
+Fab Fortuna_Solar,2,Fab Fortuna,57.3,15,95.5
+Niederaußem K_Solar,1,Niederaußem K,2400,944,95.5
+Niederaußem K_Solar,2,Niederaußem K,2400,944,95.5
+Niederaußem K_Solar,3,Niederaußem K,2400,944,95.5
+Niederaußem G_Solar,1,Niederaußem G,1600,628,95.5
+Niederaußem G_Solar,2,Niederaußem G,1600,628,95.5
+Niederaußem G_Solar,3,Niederaußem G,1600,628,95.5
+Niederaußem H_Solar,1,Niederaußem H,1640,648,95.5
+Niederaußem H_Solar,2,Niederaußem H,1640,648,95.5
+Niederaußem H_Solar,3,Niederaußem H,1640,648,95.5
+KWK Generator 2_Solar,1,KWK Generator 2,37.8,9.9,95.5
+KWK Generator 2_Solar,2,KWK Generator 2,37.8,9.9,95.5
+Fab Frechen_Solar,1,Fab Frechen,214,56,95.5
+Fab Frechen_Solar,2,Fab Frechen,214,56,95.5
+GoWerk F_Solar,1,GoWerk F,241,63,95.5
+GoWerk F_Solar,2,GoWerk F,241,63,95.5
+Fab Berrenrath_Solar,1,Fab Berrenrath,375,98,95.5
+Fab Berrenrath_Solar,2,Fab Berrenrath,375,98,95.5
+Weisweiler F_Solar,1,Weisweiler F,1230,321,95.5
+Weisweiler F_Solar,2,Weisweiler F,1230,321,95.5
+Weisweiler G_Solar,1,Weisweiler G,1690,663,95.5
+Weisweiler G_Solar,2,Weisweiler G,1690,663,95.5
+Weisweiler G_Solar,3,Weisweiler G,1690,663,95.5
+Heyeden 4_Wind,1,Heyeden 4,780,875,47.4
+Heyeden 4_Wind,2,Heyeden 4,1560,875,47.4
+Heyeden 4_Wind,3,Heyeden 4,780,875,47.4
+Lage Generator 2_Wind,1,Lage Generator 2,7.3,4.08,47.4
+Lage Generator 2_Wind,2,Lage Generator 2,7.3,4.08,47.4
+Bergkamen A_Wind,1,Bergkamen A,640,720,47.4
+Bergkamen A_Wind,2,Bergkamen A,1280,720,47.4
+Bergkamen A_Wind,3,Bergkamen A,640,720,47.4
+SSW-VT_Wind,1,SSW-VT,10.96,6.14,47.4
+SSW-VT_Wind,2,SSW-VT,10.96,6.14,47.4
+BVI-NT_Wind,1,BVI-NT,10.35,5.79,47.4
+BVI-NT_Wind,2,BVI-NT,10.35,5.79,47.4
+SSW-NT_Wind,1,SSW-NT,10.96,6.14,47.4
+SSW-NT_Wind,2,SSW-NT,10.96,6.14,47.4
+ Trianel Kohlekraftwerk Lünen_Wind,1, Trianel Kohlekraftwerk Lünen,622,746,47.4
+ Trianel Kohlekraftwerk Lünen_Wind,2, Trianel Kohlekraftwerk Lünen,"1,244",746,47.4
+ Trianel Kohlekraftwerk Lünen_Wind,3, Trianel Kohlekraftwerk Lünen,622,746,47.4
+Datteln 4_Wind,1,Datteln 4,941,1052,47.4
+Datteln 4_Wind,2,Datteln 4,1882,1052,47.4
+Datteln 4_Wind,3,Datteln 4,941,1052,47.4
+Herne 4_Wind,1,Herne 4,410,460,47.4
+Herne 4_Wind,2,Herne 4,820,460,47.4
+Herne 4_Wind,3,Herne 4,410,460,47.4
+Scholven B_Wind,1,Scholven B,410,460,47.4
+Scholven B_Wind,2,Scholven B,820,460,47.4
+Scholven B_Wind,3,Scholven B,410,460,47.4
+Scholven C_Wind,1,Scholven C,308,345,47.4
+Scholven C_Wind,2,Scholven C,616,345,47.4
+Scholven C_Wind,3,Scholven C,308,345,47.4
+Walsum 10_Wind,1,Walsum 10,624,725,47.4
+Walsum 10_Wind,2,Walsum 10,1248,725,47.4
+Walsum 10_Wind,3,Walsum 10,624,725,47.4
+Solvay Rb TA7_Wind,1,Solvay Rb TA7,22.8,12.8,47.4
+Solvay Rb TA7_Wind,2,Solvay Rb TA7,22.8,12.8,47.4
+Solvay Rb TA8_Wind,1,Solvay Rb TA8,28.5,15.94,47.4
+Solvay Rb TA8_Wind,2,Solvay Rb TA8,28.5,15.94,47.4
+Solvay Rb TA 9_Wind,1,Solvay Rb TA 9,48.5,27.2,47.4
+Solvay Rb TA 9_Wind,2,Solvay Rb TA 9,48.5,27.2,47.4
+Solvay Rb TA 10 _Wind,1,Solvay Rb TA 10 ,48.5,27.2,47.4
+Solvay Rb TA 10 _Wind,2,Solvay Rb TA 10 ,48.5,27.2,47.4
+UER N230 VST2_Wind,1,UER N230 VST2,14.6,8.2,47.4
+UER N230 VST2_Wind,2,UER N230 VST2,14.6,8.2,47.4
+UER L57 M1_Wind,1,UER L57 M1,30.5,17.1,47.4
+UER L57 M1_Wind,2,UER L57 M1,30.5,17.1,47.4
+UER L57 M3_Wind,1,UER L57 M3,12.9,7.23,47.4
+UER L57 M3_Wind,2,UER L57 M3,12.9,7.23,47.4
+UER N230 NST2_Wind,1,UER N230 NST2,27.1,15.2,47.4
+UER N230 NST2_Wind,2,UER N230 NST2,27.1,15.2,47.4
+UER N230 VST1_Wind,1,UER N230 VST1,11.6,6.5,47.4
+UER N230 VST1_Wind,2,UER N230 VST1,11.6,6.5,47.4
+LEV KWG G23_Wind,1,LEV KWG G23,9.8,5.48,47.4
+LEV KWG G23_Wind,2,LEV KWG G23,9.8,5.48,47.4
+LEV KWG G02_Wind,1,LEV KWG G02,14.7,8.23,47.4
+LEV KWG G02_Wind,2,LEV KWG G02,14.7,8.23,47.4
+LEV KWG G11_Wind,1,LEV KWG G11,34.4,19.24,47.4
+LEV KWG G11_Wind,2,LEV KWG G11,34.4,19.24,47.4
+LEV KWG G12_Wind,1,LEV KWG G12,30.8,17.24,47.4
+LEV KWG G12_Wind,2,LEV KWG G12,30.8,17.24,47.4
+LEV KWG G21_Wind,1,LEV KWG G21,22.7,12.67,47.4
+LEV KWG G21_Wind,2,LEV KWG G21,22.7,12.67,47.4
+LEV KWG G22_Wind,1,LEV KWG G22,22.7,12.67,47.4
+LEV KWG G22_Wind,2,LEV KWG G22,22.7,12.67,47.4
+Block 6 Merkenich RheinEnergie_Wind,1,Block 6 Merkenich RheinEnergie,133.8,75.3,47.4
+Block 6 Merkenich RheinEnergie_Wind,2,Block 6 Merkenich RheinEnergie,133.8,75.3,47.4
+Neurath F_Wind,1,Neurath F,1248,1060,47.4
+Neurath F_Wind,2,Neurath F,1248,1060,47.4
+Neurath F_Wind,3,Neurath F,1248,1060,47.4
+Neurath G_Wind,1,Neurath G,1248,1060,47.4
+Neurath G_Wind,2,Neurath G,1248,1060,47.4
+Neurath G_Wind,3,Neurath G,1248,1060,47.4
+Fab Fortuna_Wind,1,Fab Fortuna,26.4,15,47.4
+Fab Fortuna_Wind,2,Fab Fortuna,26.4,15,47.4
+Niederaußem K_Wind,1,Niederaußem K,1110,944,47.4
+Niederaußem K_Wind,2,Niederaußem K,1110,944,47.4
+Niederaußem K_Wind,3,Niederaußem K,1110,944,47.4
+Niederaußem G_Wind,1,Niederaußem G,740,628,47.4
+Niederaußem G_Wind,2,Niederaußem G,740,628,47.4
+Niederaußem G_Wind,3,Niederaußem G,740,628,47.4
+Niederaußem H_Wind,1,Niederaußem H,760,648,47.4
+Niederaußem H_Wind,2,Niederaußem H,760,648,47.4
+Niederaußem H_Wind,3,Niederaußem H,760,648,47.4
+KWK Generator 2_Wind,1,KWK Generator 2,17.5,9.9,47.4
+KWK Generator 2_Wind,2,KWK Generator 2,17.5,9.9,47.4
+Fab Frechen_Wind,1,Fab Frechen,99,56,47.4
+Fab Frechen_Wind,2,Fab Frechen,99,56,47.4
+GoWerk F_Wind,1,GoWerk F,112,63,47.4
+GoWerk F_Wind,2,GoWerk F,112,63,47.4
+Fab Berrenrath_Wind,1,Fab Berrenrath,174,98,47.4
+Fab Berrenrath_Wind,2,Fab Berrenrath,174,98,47.4
+Weisweiler F_Wind,1,Weisweiler F,570,321,47.4
+Weisweiler F_Wind,2,Weisweiler F,570,321,47.4
+Weisweiler G_Wind,1,Weisweiler G,790,663,47.4
+Weisweiler G_Wind,2,Weisweiler G,790,663,47.4
+Weisweiler G_Wind,3,Weisweiler G,790,663,47.4
